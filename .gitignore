@@ -1,0 +1,39 @@
+
+# MATLAB generated files
+*.asv
+*.m~
+*.autosave
+
+# Simulink cache and generated files
+slprj/
+*.slxc
+*.mdl.autosave
+*.slx.autosave
+
+# MEX compiled files
+*.mexw64
+*.mexw32
+*.mexa64
+*.mexmaci64
+*.mexmac
+
+# Code generation outputs
+codegen/
+build/
+*_ert_rtw/
+*_grt_rtw/
+*_slrt_rtw/
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor files
+.vscode/
+.idea/
