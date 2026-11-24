@@ -24,34 +24,8 @@ A collection of MATLAB and Simulink simulations exploring power electronics, pow
 
 ## Repository Structure
 
-```text
-MATLAB-Simulink-Power-Electronics/
-│
-├── DC-DC-Converters/
-│   ├── Buck-Converter/
-│   └── Boost-Converter/
-││
-├── Rectifiers/
-│   ├── Half-Wave/
-│   ├── Full-Wave/
-│   └── Controlled-Rectifier/
-│
-├── Three-Phase-Converters/
-│
-├── PWM/
-│
-├── Gate-Driver-Circuits/
-│   ├── Bootstrap/
-│   └── Optocoupler/
-│
-├── Switching-Devices/
-│   ├── MOSFET/
-│   └── IGBT/
-│
-├── Results/
-│
-└── README.md
-```
+
+
 
 ## Simulations
 
